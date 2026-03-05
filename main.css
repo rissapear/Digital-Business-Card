@@ -14,13 +14,22 @@ h1{
 }
 
 h2{
-color: rgba(133, 133, 220, 0.848);
-align-self: left;
+color: rgba(83, 83, 223, 0.848);
+font-size: 100px; 
+align-self: center;
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+}
+
 
 }
 
 h3{
-    color:rgba(148, 142, 234, 0.721);
+    color:rgba(94, 84, 233, 0.721);
+    font-size: 50px; 
+    align-self: center;
 }
 
 li{
@@ -35,8 +44,10 @@ body{
     background-size: cover;
 }
 svg{
+    
+
     max-width: 60px;
-    fill:rgb(181, 132, 207);
+    fill:rgb(255, 255, 255);
 }
 #dot{
     fill:rgb(162, 116, 255);
