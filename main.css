@@ -1,3 +1,62 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: auto;
+  gap: 17px;
+
+  grid-template-areas:
+    "t t t t t t t t t . . ."
+    "t t t t t t t t t . . ."
+    ". . . . . . . m m m m m"
+    "f f f f . . . l l l l l";
+
+}
+/* other areas of the page */
+.text-container{
+    grid-area:t;
+}
+
+.linked-in{
+  grid-area: l;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+  gap: 10px;
+
+  background-color: rgba(55, 0, 218, 0.5);
+  
+
+  border-radius: 45px 0px 0px 45px;
+}
+
+.mail-to{
+  grid-area: m;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+  gap: 10px;
+  background-color: rgba(55, 0, 218, 0.5);
+
+  border-radius: 45px 0px 0px 45px;
+}
+
+/* image styling */
+.email{
+    margin:20px;
+    /* max-width: 10px; */
+}
+
+.linkedin{
+    margin:5px;
+   max-width: 120px;
+  
+}
+
+img{
+    max-width:100px;
+}
+
+
 body{
   font-family: "Nunito Sans", sans-serif;
   font-optical-sizing: auto;
@@ -8,6 +67,9 @@ body{
     "YTLC" 500;
 }
 
+.text-container{
+    margin-left: 100px;
+}
 h1{
     color: rgb(140, 140, 224)
 
@@ -15,29 +77,41 @@ h1{
 
 h2{
 color: rgba(83, 83, 223, 0.848);
-font-size: 100px; 
+font-size: 95px; 
 align-self: center;
-.container {
+margin:0px;
+padding: 0px;
+line-height: 90px;
+margin-top: 90px;
+margin-left: 15px;
+}
+
+/* .container {
   display: flex;
   justify-content: space-between;
   align-items: right;
-}
+} */
 
 
-}
 
 h3{
     color:rgba(94, 84, 233, 0.721);
     font-size: 50px; 
     align-self: center;
+    line-height: 100px;
+    margin: 0px;
+    padding: 0px;
 }
-
+h4{
+       color: aliceblue;
+       font-size: 30px;
+}
 li{
     color:rgba(127, 107, 209, 0.788);
 }
 
 a { 
-    color:rgb(174, 153, 241)
+    color:rgb(174, 153, 241);
 }
 body{
     background-image: url("Assets/board2.png");
@@ -58,4 +132,7 @@ svg:hover{
     #dot{
         fill:rgb(58, 140, 227);
     }
+
+    
 }
+
