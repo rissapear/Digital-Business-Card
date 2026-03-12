@@ -33,6 +33,7 @@
   border-radius: 45px 0px 0px 45px;
 }
 
+
 .mail-to{
   grid-area: m;
   display: grid;
@@ -128,10 +129,12 @@ a {
 }
 
 
+
+
 body{
-    cursor: url('fishmouse.png'), auto;
     background-image: url("Assets/boardfish.png");
     background-size: cover;
+     cursor: url('Assets/fish3.svg'), auto;
 }
 svg{
     
