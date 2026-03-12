@@ -8,7 +8,11 @@
     "t t t t t t t t t . . ."
     "t t t t t t t t t . . ."
     ". . . . . . . m m m m m"
-    "f f f f . . . l l l l l";
+    ". . . . . . . m m m m m"
+    ". . . . . . . m m m m m"
+    "f f f f . . . . l l l l"
+    "f f f f . . . . l l l l";
+    
 
 }
 /* other areas of the page */
@@ -43,17 +47,19 @@
 /* image styling */
 .email{
     margin:20px;
-    /* max-width: 10px; */
+    max-width: 100px;
+  
+ 
 }
 
 .linkedin{
-    margin:5px;
-   max-width: 120px;
+    margin:20px;
+   max-width: 90px;
   
 }
 
 img{
-    max-width:100px;
+    max-width:90px;
 }
 
 
@@ -82,8 +88,8 @@ align-self: center;
 margin:0px;
 padding: 0px;
 line-height: 90px;
-margin-top: 90px;
-margin-left: 15px;
+
+
 }
 
 /* .container {
@@ -103,8 +109,15 @@ h3{
     padding: 0px;
 }
 h4{
-       color: aliceblue;
+       color: rgb(232, 217, 249);
        font-size: 30px;
+
+}
+
+h5{
+       color: rgb(232, 217, 249);
+       font-size: 27px;
+
 }
 li{
     color:rgba(127, 107, 209, 0.788);
@@ -114,14 +127,14 @@ a {
     color:rgb(174, 153, 241);
 }
 body{
-    background-image: url("Assets/board2.png");
+    background-image: url("Assets/boardfish.png");
     background-size: cover;
 }
 svg{
     
 
     max-width: 60px;
-    fill:rgb(255, 255, 255);
+    fill:rgb(254, 254, 254);
 }
 #dot{
     fill:rgb(162, 116, 255);
@@ -133,6 +146,5 @@ svg:hover{
         fill:rgb(58, 140, 227);
     }
 
-    
 }
 

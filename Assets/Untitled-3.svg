@@ -1,39 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
-  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 405.25 321.35">
   <defs>
     <style>
-      .st0 {
-        font-family: FuturaPT-Book, 'Futura PT';
-        font-size: 70.3px;
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke: #a3dbe8;
       }
 
-      .st0, .st1 {
-        fill: #fff;
-      }
-
-      .st1, .st2, .st3 {
-        stroke: #000;
+      .cls-1, .cls-2, .cls-3, .cls-4 {
         stroke-miterlimit: 10;
       }
 
-      .st1, .st3 {
-        stroke-width: 20px;
+      .cls-1, .cls-3 {
+        stroke-width: 15px;
       }
 
-      .st2 {
+      .cls-2 {
         fill: none;
-        stroke-width: 18px;
+        stroke-width: 16px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #d2c2ff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+        stroke-width: 11px;
       }
     </style>
+    <linearGradient id="linear-gradient" x1="8.74" y1="159.43" x2="396.45" y2="159.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d10d6"/>
+      <stop offset="1" stop-color="#400096"/>
+      <stop offset="1" stop-color="#0d003f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="24.53" y1="99.67" x2="380.25" y2="99.67" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="162.2" y1="149.98" x2="229" y2="149.98" gradientTransform="translate(-.49 2.21)" xlink:href="#linear-gradient"/>
   </defs>
   <g id="mail">
-    <rect class="st1" x="73.5" y="98" width="377.5" height="296" rx="73.5" ry="73.5"/>
-    <line class="st2" x1="72" y1="138.6" x2="259.4" y2="279.2"/>
-    <line class="st2" x1="448" y1="131" x2="259.4" y2="282.4"/>
-    <path class="st3" d="M256,302.2l-30.7-29.7c-1.9-1.8-1.9-4.7,0-6.5l31-30c1.9-1.8,4.9-1.8,6.7,0l30.7,29.7c1.9,1.8,1.9,4.7,0,6.5l-31,30c-1.9,1.8-4.9,1.8-6.7,0Z"/>
+    <rect class="cls-1" x="8.74" y="7.5" width="387.71" height="303.86" rx="95.04" ry="95.04"/>
+    <path class="cls-3" d="M24.53,51.08c7.38,12.5,16.45,24.08,26.28,34.73,17.18,18.62,37.44,34.51,60.05,46.05,28.95,14.79,61.38,21.95,93.87,21.1,33.58-.88,66.76-10.23,96-26.7s54.98-40.54,73.16-69.22c2.22-3.51,4.34-7.09,6.34-10.73"/>
   </g>
-  <g id="IN">
-    <text class="st0" transform="translate(234.3 287.9) scale(1.1 1)"><tspan x="0" y="0">in</tspan></text>
+  <g id="mail-2" data-name="mail">
+    <rect class="cls-2" x="8" y="8.32" width="389.25" height="305.03" rx="95.04" ry="95.04"/>
   </g>
+  <rect class="cls-4" x="161.71" y="119.64" width="66.8" height="65.08" rx="15.49" ry="15.49" transform="translate(164.76 -93.39) rotate(45)"/>
 </svg>
