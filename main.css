@@ -65,6 +65,8 @@ img{
 
 
 body{
+cursor: url('Assets/fish3.svg'), auto;
+
   font-family: "Nunito Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -126,15 +128,15 @@ li{
 
 a { 
     color:rgb(174, 153, 241);
+  
 }
-
 
 
 
 body{
     background-image: url("Assets/boardfish.png");
     background-size: cover;
-     cursor: url('Assets/fish3.svg'), auto;
+  
 }
 svg{
     
