@@ -43,6 +43,7 @@
   background-color: rgba(55, 0, 218, 0.5);
 
   border-radius: 45px 0px 0px 45px;
+  
 }
 
 /* image styling */
@@ -51,6 +52,10 @@
     max-width: 100px;
   
  
+}
+
+.pinterest{
+    margin: 20px;
 }
 
 .linkedin{
