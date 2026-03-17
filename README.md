@@ -1,11 +1,14 @@
-## Digital buisness card 
-This is my first buisness card at Umassd
 
-## How I made my mockups 
-I started with figma as its easy to use, and easy to save ideas. I then used scrapped designs ive made during my first year of college to get a visual idea, I then pout my name, majour, and two bars being used for my two links. 
+## How I made my mockups
+
+ I first started with figma, which was just easy to use and save ideas. For designing the backdrop, I used scrapped designs I made during my first year of college to get a visual idea, then adding my name, major, and two bars being used for my two links.
 
 ## Was this my first web page?
-Yes, as for coding expects , it was, but I have experienced I guess demo like experince you can say with esighing an site and slight idea of visuals for pages but never coding before, not great but kind of cool, for my first coding project. 
 
-## Fonts I used and why 
-I used Nunito Sans", sans-serif by (need to link that)
+Yes, as for coding a site, with my only semi start to  designing was on figma but never coding, my first attempt here is alright but still cool for being my first coding project. (I also, had alot of help with a few things too)
+
+## Fonts I used and why
+
+I used Nunito Sans", sans-serif by Vernon Adams, Jacques Le Bailly, Manvel Shmavonyan, Alexei Vanyashin. I like the line weight, it feels professional enough and readable, which I find important to the card as unreadable or odd fonts which affect the whole thing as it's the first thing the viewer will see on the card, that being name, major, etc.
+
+My original idea was to use two different fonts to make it more visually interesting, but it was just best to stick with just one font to keep it simple.
