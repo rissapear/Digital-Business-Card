@@ -72,7 +72,8 @@ img{
 body{
 cursor: url('Assets/fish3.svg'), auto;
 
-  font-family: "Nunito Sans", sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', Helvetica, sans-serif;
+  font-optical-sizing: auto;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -85,12 +86,22 @@ cursor: url('Assets/fish3.svg'), auto;
     margin-left: 100px;
 }
 h1{
-    color: rgb(140, 140, 224)
-
+    
+     color: rgb(140, 140, 224)
+ 
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: sans-serif;
+  font-optical-sizing: auto;
+  font-optical-sizing: auto;
+ 
 }
+
 
 h2{
 color: rgba(83, 83, 223, 0.848);
+
 font-size: 95px; 
 align-self: center;
 margin:0px;
@@ -139,7 +150,7 @@ a {
 
 
 body{
-    background-image: url("Assets/boardfish.png");
+    background-image: url("Assets/board1.png");
     background-size: cover;
   
 }
