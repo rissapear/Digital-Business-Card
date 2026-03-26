@@ -1,52 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 405.25 321.35">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 472.4 361.1">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
   <defs>
     <style>
-      .cls-1 {
+      .st0 {
+        fill: #fff;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st6, .st7, .st8 {
+        stroke: #000;
+      }
+
+      .st0, .st8 {
+        stroke-width: 20px;
+      }
+
+      .st1 {
         fill: url(#linear-gradient);
         stroke: #a3dbe8;
       }
 
-      .cls-1, .cls-2, .cls-3, .cls-4 {
-        stroke-miterlimit: 10;
-      }
-
-      .cls-1, .cls-3 {
+      .st1, .st3 {
         stroke-width: 15px;
       }
 
-      .cls-2 {
-        fill: none;
-        stroke-width: 16px;
+      .st2 {
+        fill: url(#linear-gradient2);
+        stroke-width: 11px;
       }
 
-      .cls-2, .cls-3, .cls-4 {
+      .st2, .st3, .st4, .st5 {
         stroke: #d2c2ff;
       }
 
-      .cls-3 {
-        fill: url(#linear-gradient-2);
+      .st3 {
+        fill: url(#linear-gradient1);
       }
 
-      .cls-4 {
-        fill: url(#linear-gradient-3);
-        stroke-width: 11px;
+      .st4 {
+        stroke-width: 16px;
+      }
+
+      .st4, .st5, .st6 {
+        fill: none;
+      }
+
+      .st5, .st7 {
+        stroke-width: 8px;
+      }
+
+      .st6 {
+        stroke-width: 18px;
+      }
+
+      .st9 {
+        display: none;
       }
     </style>
-    <linearGradient id="linear-gradient" x1="8.74" y1="159.43" x2="396.45" y2="159.43" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="46.1" y1="177.1" x2="433.8" y2="177.1" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#3d10d6"/>
       <stop offset="1" stop-color="#400096"/>
       <stop offset="1" stop-color="#0d003f"/>
     </linearGradient>
-    <linearGradient id="linear-gradient-2" x1="24.53" y1="99.67" x2="380.25" y2="99.67" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-3" x1="166.6" y1="152.71" x2="223.23" y2="152.71" gradientTransform="translate(-2.22 .92)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient1" x1="61.9" y1="117.3" x2="417.6" y2="117.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="199.6" y1="167.7" x2="266.4" y2="167.7" gradientTransform="translate(-.5 2.2)" xlink:href="#linear-gradient"/>
   </defs>
-  <g id="mail">
-    <rect class="cls-1" x="8.74" y="7.5" width="387.71" height="303.86" rx="95.04" ry="95.04"/>
-    <path class="cls-3" d="M24.53,51.08c7.38,12.5,16.45,24.08,26.28,34.73,17.18,18.62,37.44,34.51,60.05,46.05,28.95,14.79,61.38,21.95,93.87,21.1,33.58-.88,66.76-10.23,96-26.7s54.98-40.54,73.16-69.22c2.22-3.51,4.34-7.09,6.34-10.73"/>
+  <g id="Layer_1">
+    <g id="mail">
+      <rect class="st1" x="46.1" y="25.2" width="387.7" height="303.9" rx="95" ry="95"/>
+      <path class="st3" d="M61.9,68.8c7.4,12.5,16.5,24.1,26.3,34.7,17.2,18.6,37.4,34.5,60,46.1,28.9,14.8,61.4,21.9,93.9,21.1,33.6-.9,66.8-10.2,96-26.7s55-40.5,73.2-69.2c2.2-3.5,4.3-7.1,6.3-10.7"/>
+    </g>
+    <g id="stamp">
+      <path class="st5" d="M248.3,190.8"/>
+    </g>
+    <g id="mail1" data-name="mail">
+      <rect class="st4" x="45.4" y="26" width="389.3" height="305" rx="95" ry="95"/>
+    </g>
+    <rect class="st2" x="199.1" y="137.3" width="66.8" height="65.1" rx="15.5" ry="15.5" transform="translate(188.2 -114.7) rotate(45)"/>
   </g>
-  <g id="mail-2" data-name="mail">
-    <rect class="cls-2" x="8" y="8.32" width="389.25" height="305.03" rx="95.04" ry="95.04"/>
+  <g id="Layer_2" class="st9">
+    <g id="mail2" data-name="mail">
+      <rect class="st0" x="51.5" y="32.5" width="377.5" height="296" rx="73.5" ry="73.5"/>
+      <line class="st6" x1="50" y1="73" x2="237.5" y2="213.6"/>
+      <line class="st6" x1="426" y1="65.5" x2="237.5" y2="216.9"/>
+      <path class="st8" d="M234.1,236.7l-30.7-29.7c-1.9-1.8-1.9-4.7,0-6.5l31-30c1.9-1.8,4.9-1.8,6.7,0l30.7,29.7c1.9,1.8,1.9,4.7,0,6.5l-31,30c-1.9,1.8-4.9,1.8-6.7,0h0Z"/>
+      <g id="stamp1" data-name="stamp" class="st9">
+        <path class="st7" d="M279,196.5l.3,15.7c.2,9.6-4.8,18.6-12.9,23.3l-13.2,7.6c-7.7,4.4-17.1,4.3-24.7-.2l-15.1-9c-7.6-4.6-12.4-13-12.5-22.1l-.3-15.7c-.2-9.6,4.8-18.6,12.9-23.3l13.2-7.6c7.7-4.4,17.1-4.3,24.7.2l15.1,9c7.6,4.6,12.4,13,12.5,22.1h0Z"/>
+      </g>
+    </g>
   </g>
-  <rect class="cls-4" x="164.38" y="126.04" width="56.63" height="55.17" rx="15.49" ry="15.49" transform="translate(165.07 -91.26) rotate(45)"/>
 </svg>
